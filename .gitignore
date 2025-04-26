@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.parcel-cache
+
+.resume.docx
+.resume.pdf
+.SakethSadu_Resume.pdf
+.SakethSadu_ResumeDev.docx
+.SakethSadu_Website_resume_Internchnage.docx
+.SakethSadu_Website_resume.docx
+
+
